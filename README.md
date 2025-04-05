@@ -6,13 +6,18 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NAZNEEN-PARVEEN&show_icons=true&theme=transparent" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=NAZNEEN-PARVEEN&show_icons=true&theme=transparent" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAZNEEN-PARVEEN&layout=compact&theme=transparent" />
+    </td>
+  </tr>
+</table>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAZNEEN-PARVEEN&layout=compact&theme=transparent" />
-
-<br><br>
+<br/>
 
 <h3>Tech Stack</h3>
 
@@ -20,27 +25,32 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,nodejs,git,github" />
 </p>
 
-<br/>
+<table>
+  <tr>
+    <td align="center">
 
-<h3>Connect With Me</h3>
+      <h3>Connect with Me</h3>
 
-<p>
-  <a href="https://instagram.com/nazne_en5676">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:nazneenparveen687@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+      <a href="https://instagram.com/nazne_en5676">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+      <a href="mailto:nazneenparveen687@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      </a>
+
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=NAZNEEN-PARVEEN&color=green" alt="Profile views" />
 
 </div>
+
 
 
 ### 📈 Contribution Graph:
