@@ -27,7 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-### 📬 Connect with me
 
 <p align="center">
   <a href="mailto:nazneenparveen687@gmail.com"><img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
