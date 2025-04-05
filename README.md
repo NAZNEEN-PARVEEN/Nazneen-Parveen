@@ -46,7 +46,4 @@
 ### 📈 Contribution Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NAZNEEN-PARVEEN&theme=dracula)
 - 🌱 I’m currently learning **Node.js, Express.js, MongoDB, and building full-stack web apps**
-- 👯 I’m looking to collaborate on **frontend and full-stack web development projects**
-- 🤔 I’m looking for help with **backend development and connecting frontend with APIs**
-- 📫 How to reach me: **nazneenparveen687@gmail.com** or [@nazne_en5676 on Instagram](https://www.instagram.com/nazne_en5676)
 - ⚡ Fun fact: **I love turning chai, code & curiosity into beautiful websites ☕💻✨**
