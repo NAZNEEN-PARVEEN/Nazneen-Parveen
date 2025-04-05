@@ -1,30 +1,33 @@
-## Hi there 👋 ! I 'm Nazneen Parveen
-
-<!--
-**NAZNEEN-PARVEEN/Nazneen-Parveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<h1 align="center">Hi 👋, I'm Nazneen Parveen</h1>
-<h3 align="center">Aspiring Full Stack Developer | BCA Student at LPU</h3>
-
-- 🔭 I’m currently working on **Full Stack Web Development**
-- 🌱 I’m currently learning **Node.js, Express.js, MongoDB**
-- 💬 Ask me about **HTML, CSS, JavaScript, Git & GitHub**
-- 📫 How to reach me: **nazneenparveen687@gmail.com**
-- 📷 Instagram: [@nazne_en5676](https://www.instagram.com/nazne_en5676)
+<h1 align="center">Hi there 👋 I'm Nazneen Parveen</h1>
+<p align="center">✨ A passionate BCA student at LPU | Aspiring Frontend Developer ✨</p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vsco,vscode,nodejs,express,mongodb" />
+### 🚀 Languages & Tools:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+</p>
 
 ---
 
-### 📊 GitHub Stats:
-![Nazneen's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAZNEEN-PARVEEN&show_icons=true&theme=radical)
+### 📫 Connect with me:
 
----
+<p align="left">
+  <a href="https://www.instagram.com/nazne_en5676/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:nazneenparveen687@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/your-discord-id">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ### 📈 Contribution Graph:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NAZNEEN-PARVEEN&theme=dracula)
