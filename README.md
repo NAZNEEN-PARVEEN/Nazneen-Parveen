@@ -2,55 +2,50 @@
 
 <h1>Hi, I'm Nazneen Parveen</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=CS+Student+at+LPU;Frontend+Developer;Learning+Backend+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=CS+Student+%7C+Frontend+Developer+%7C+Learning+Backend" alt="Typing SVG" />
 
-<br><br>
+<br/>
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NAZNEEN-PARVEEN&show_icons=true&theme=transparent" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NAZNEEN-PARVEEN&show_icons=true&hide_border=true&theme=transparent" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAZNEEN-PARVEEN&layout=compact&theme=transparent" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAZNEEN-PARVEEN&layout=compact&hide_border=true&theme=transparent" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<h3>Tech Stack</h3>
+<h3>Languages and Tools</h3>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,nodejs,git,github" />
 </p>
 
-<table>
-  <tr>
-    <td align="center">
+<br/>
 
-      <h3>Connect with Me</h3>
+<h3>Connect with me</h3>
 
-      <a href="https://instagram.com/nazne_en5676">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-      <a href="mailto:nazneenparveen687@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-      </a>
-
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://instagram.com/nazne_en5676" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="mailto:nazneenparveen687@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=NAZNEEN-PARVEEN&color=green" alt="Profile views" />
 
 </div>
-
 
 
 ### 📈 Contribution Graph:
