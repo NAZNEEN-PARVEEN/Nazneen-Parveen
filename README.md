@@ -7,13 +7,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NAZNEEN-PARVEEN&show_icons=true&theme=radical" alt="Nazneen's GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAZNEEN-PARVEEN&layout=compact&theme=radical" alt="Top Langs" height="180"/>
-</p>
+
 
 ---
 
 ## Tech Stack
 
-<p align="left">
+
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
@@ -25,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 </p>
 
----
-
 ### 📬 Connect with me
 
 <p align="center">
@@ -35,12 +35,13 @@
   <a href="https://www.instagram.com/nazne_en5676"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
----
-
-### 🔥 Visitors Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NAZNEEN-PARVEEN&color=blue&style=flat" alt="Visitor count"/>
+</p>
+
+
+
 </p>
 
 ---
