@@ -2,31 +2,28 @@
 
 <h1>Hi, I'm Nazneen Parveen</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=CS+Student+at+LPU;Frontend+Developer;Learning+Backend+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=CS+Student+at+LPU;Frontend+Developer;Learning+Backend+Development" alt="Typing SVG" />
 
 <br><br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NAZNEEN-PARVEEN&show_icons=true&theme=transparent" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAZNEEN-PARVEEN&layout=compact&theme=transparent" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=NAZNEEN-PARVEEN&show_icons=true&theme=transparent" />
 
-<br/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAZNEEN-PARVEEN&layout=compact&theme=transparent" />
+
+<br><br>
 
 <h3>Tech Stack</h3>
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,nodejs,git,github" />
 </p>
 
 <br/>
 
-<h3>Connect with Me</h3>
+<h3>Connect With Me</h3>
+
 <p>
   <a href="https://instagram.com/nazne_en5676">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
