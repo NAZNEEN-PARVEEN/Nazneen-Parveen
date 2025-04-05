@@ -1,10 +1,12 @@
-<h1 align="center">Hi, I'm Nazneen Parveen</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=CS+Student+at+LPU;Frontend+Developer;Learning+Backend+Development" alt="Typing SVG" />
-</p>
+<h1>Hi, I'm Nazneen Parveen</h1>
 
-<table align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=CS+Student+at+LPU;Frontend+Developer;Learning+Backend+Development" alt="Typing SVG" />
+
+<br><br>
+
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=NAZNEEN-PARVEEN&show_icons=true&theme=transparent" />
@@ -17,15 +19,15 @@
 
 <br/>
 
-<h3 align="center">Tech Stack</h3>
-<p align="center">
+<h3>Tech Stack</h3>
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,nodejs,git,github" />
 </p>
 
 <br/>
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
+<h3>Connect with Me</h3>
+<p>
   <a href="https://instagram.com/nazne_en5676">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -37,6 +39,11 @@
   </a>
 </p>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=NAZNEEN-PARVEEN&color=green" alt="Profile views" />
+
+</div>
 
 
 ### 📈 Contribution Graph:
