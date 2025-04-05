@@ -8,7 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NAZNEEN-PARVEEN&show_icons=true&theme=radical" alt="Nazneen's GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAZNEEN-PARVEEN&layout=compact&theme=radical" alt="Top Langs" height="180"/>
 
-## Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
